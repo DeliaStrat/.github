@@ -51,7 +51,7 @@ Set issues dependencies as sub-issue in card:
 Set estimation parameters in the issue metadata:
 
 - **Size "Complexity":** Low / Medium / High / Very high
-- **Story Points "Estimate":** 1 (an hour), 3 (a few hours), 5 (a few days), 8 (a week), 13 (a whole sprint), 20 (requires splitting the card)
+- **Story Points "Estimate":** 1 (an hour), 3 (a few hours), 5 (a few days), 8 (a week), 13 (a whole sprint), 20 (requires setting sub-issues or splitting the card)
 
 ## Additional Context
 
