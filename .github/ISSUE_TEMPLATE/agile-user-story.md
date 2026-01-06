@@ -1,12 +1,14 @@
 ---
 name: User Story
 about: Template for well-scoped agile cards
-title: "[FEATURE] "
+title: "[STORY] "
 labels: ''
 assignees: ''
 ---
 
 ## User Story
+
+> e.g., **As a** C2 military that does operations planning, **I want** to have a permanently-visible classification banner, **So that** my screenshots comply with law on data classification.
 
 **As a** [type of user],  
 **I want** [goal/desire],  
@@ -16,40 +18,40 @@ assignees: ''
 
 > Clear, testable conditions that must be met for this issue to be considered complete.
 
-- [ ] Criterion 1
-- [ ] Criterion 2
-- [ ] Criterion 3
+- [ ] e.g., User receives a confirmation email within 30 seconds of submitting the form
 
 ## Scope
 
 ### In Scope
 
-- Item 1
-- Item 2
+- e.g., Email notification for new registrations
 
 ### Out of Scope
 
-- Item explicitly excluded
-- Future consideration (link to backlog item if relevant)
+- e.g., SMS notifications (planned for Q3, see `#123`)
 
 ## Technical Notes
 
 > Implementation hints, architectural decisions, or constraints.
 
-- 
+- e.g., Must use the existing SendGrid integration
 
 ## Dependencies
 
-| Type       | Description | Link   |
-| ---------- | ----------- | ------ |
-| Blocked by | Description | #issue |
-| Blocks     | Description | #issue |
-| Related to | Description | #issue |
+Set issues dependencies as sub-issue in card:
+
+| Type       | Description                  | Link   |
+| ---------- | ---------------------------- | ------ |
+| Blocked by | e.g., Email service setup    | #issue |
+| Blocks     | e.g., User onboarding flow   | #issue |
+| Related to | e.g., Notification preferences | #issue |
 
 ## Estimation
 
-- **Story Points:** `[ ]` 1 `[ ]` 2 `[ ]` 3 `[ ]` 5 `[ ]` 8 `[ ]` 13
-- **Complexity:** `[ ]` Low `[ ]` Medium `[ ]` High
+Set estimation parameters in the issue metadata:
+
+- **Size "Complexity":** Low / Medium / High / Very high
+- **Story Points "Estimate":** 1 (an hour), 3 (a few hours), 5 (a few days), 8 (a week), 13 (a whole sprint), 20 (requires splitting the card)
 
 ## Additional Context
 
