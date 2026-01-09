@@ -10,9 +10,9 @@ assignees: ''
 
 > e.g., **As a** C2 military that does operations planning, **I want** to have a permanently-visible classification banner, **So that** my screenshots comply with law on data classification.
 
-**As a** [type of user],  
-**I want** [goal/desire],  
-**So that** [benefit/value].
+- **As a** [type of user]
+- **I want** [goal/desire]
+- **So that** [benefit/value]
 
 ## Acceptance Criteria
 
@@ -30,21 +30,9 @@ assignees: ''
 
 - e.g., SMS notifications (planned for Q3, see `#123`)
 
-## Technical Notes
-
-> Implementation hints, architectural decisions, or constraints.
-
-- e.g., Must use the existing SendGrid integration
-
 ## Dependencies
 
-Set issues dependencies as sub-issue in card:
-
-| Type       | Description                  | Link   |
-| ---------- | ---------------------------- | ------ |
-| Blocked by | e.g., Email service setup    | #issue |
-| Blocks     | e.g., User onboarding flow   | #issue |
-| Related to | e.g., Notification preferences | #issue |
+Set issue dependencies as sub-issues.
 
 ## Estimation
 
