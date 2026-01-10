@@ -15,7 +15,6 @@ assignees: ''
 - **Customer/Account:** 
 - **Reported by:** 
 - **Report date:** 
-- **Ticket/Support ID:** 
 
 ## Environment
 
