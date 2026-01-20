@@ -1,8 +1,9 @@
 ---
 name: Customer Feedback / Feature Request
 about: Suggest an improvement or new feature based on customer feedback
-title: "[FEEDBACK] "
-labels: enhancement, customer-feedback, triage
+title: ""
+labels: 'requires-triage'
+types: 'Feedback'
 assignees: ''
 ---
 
@@ -23,7 +24,7 @@ assignees: ''
 `[ ]` Improvement to existing feature  
 `[ ]` UX/UI change  
 `[ ]` Documentation  
-`[ ]` Other: ___________
+`[ ]` Other: 
 
 ## Problem Statement
 

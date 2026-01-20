@@ -1,8 +1,9 @@
 ---
 name: Bug Report
 about: Report a problem or unexpected behavior
-title: "[BUG] "
-labels: bug, triage
+title: ""
+labels: 'requires-triage'
+types: 'Bug'
 assignees: ''
 ---
 
@@ -13,9 +14,8 @@ assignees: ''
 ## Customer Information
 
 - **Customer/Account:** 
-- **Reported by:** 
+- **Reported by:** (issue author or name the user)
 - **Report date:** 
-- **Ticket/Support ID:** 
 
 ## Environment
 
@@ -30,11 +30,11 @@ assignees: ''
 2. 
 3. 
 
-## Expected Behavior
+## Expected behavior
 
 > What should happen?
 
-## Actual Behavior
+## Actual behavior
 
 > What happens instead?
 
@@ -47,10 +47,6 @@ assignees: ''
 
 > Describe business impact if relevant.
 
-## Evidence
+## Evidence and and additional context
 
 > Attach screenshots, error messages, logs, or screen recordings.
-
-## Additional Context
-
-> Any other relevant information (recent changes, related issues, etc.)
