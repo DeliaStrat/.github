@@ -18,14 +18,6 @@ assignees: []
 - **Report date:** 
 - **Ticket/Support ID:** 
 
-## Request Type
-
-`[ ]` New feature  
-`[ ]` Improvement to existing feature  
-`[ ]` UX/UI change  
-`[ ]` Documentation  
-`[ ]` Other: 
-
 ## Problem Statement
 
 > What problem is the customer trying to solve? What pain point does this address?
@@ -37,14 +29,6 @@ assignees: []
 ## Current Workaround
 
 > How is the customer handling this today (if at all)?
-
-## Business Value
-
-- **Customers requesting:** (single / few / many)
-- **Revenue impact:** (if known)
-- **Strategic alignment:** 
-
-> Why should we prioritize this?
 
 ## Acceptance Criteria
 
