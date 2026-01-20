@@ -2,9 +2,9 @@
 name: Agile Task
 about: Template for well-scoped agile cards
 title: ""
-labels: 'requires-triage'
-types: 'To-triage'
-assignees: ''
+labels: ["requires-triage"]
+type: "To-triage"
+assignees: []
 ---
 
 ## User Story

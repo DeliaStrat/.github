@@ -2,9 +2,9 @@
 name: Bug Report
 about: Report a problem or unexpected behavior
 title: ""
-labels: 'requires-triage'
-types: 'Bug'
-assignees: ''
+labels: ["requires-triage"]
+type: "Bug"
+assignees: []
 ---
 
 ## Bug Summary
