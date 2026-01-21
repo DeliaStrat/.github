@@ -2,7 +2,7 @@
 name: Agile Task
 about: Template for well-scoped agile cards
 title: ""
-labels: ["requires-triage"]
+labels: []
 type: "To-triage"
 assignees: []
 ---

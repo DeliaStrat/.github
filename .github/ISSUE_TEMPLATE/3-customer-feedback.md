@@ -2,7 +2,7 @@
 name: Customer Feedback / Feature Request
 about: Suggest an improvement or new feature based on customer feedback
 title: ""
-labels: ["requires-triage"]
+labels: []
 type: "Feedback"
 assignees: []
 ---

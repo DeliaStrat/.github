@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report a problem or unexpected behavior
 title: ""
-labels: ["requires-triage"]
+labels: []
 type: "Bug"
 assignees: []
 ---
