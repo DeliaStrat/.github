@@ -15,6 +15,12 @@ assignees: []
 **I want** [goal/desire],  
 **So that** [benefit/value].
 
+> Purely technical tasks can use the following template
+
+**As a** [technical role],
+**I need to research** [technical challenge/solution],
+**So we can** [informed decision or implementation approach].
+
 ## Acceptance Criteria
 
 > Clear, testable conditions that must be met for this issue to be considered complete.
